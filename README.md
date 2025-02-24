@@ -6,7 +6,7 @@ UI/UX understanding, and ability to work with APIs.
 Which i make use of Next.js, React, and Tailwind CSS and 
 demonstrate API handling and UI/UX skills. 
 
-I Deploy on Vercel and with the like : https://ai-powered-job.vercel.app/my-job 
+I Deploy on Vercel and with the like : https://ai-powered-job.vercel.app/
 
 **Steps to set up ReactJS with Vite:**
 
